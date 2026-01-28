@@ -1,4 +1,5 @@
-000003, Wine, Woodland Elf Wine, 400.0
-000004, Mushrooms, Farmer Took's Finest, 125.0
-000005, Mithril, Enchanted Dwarven Armor, 3000.0
-Esq., 1126
+000001, Bilbo, Baggins, Esq., 1060
+000002, Frodo, Baggins, Esq., 1120
+000003, Samwise, Gamgee, Esq., 1125
+000004, Peregrin, Took, Esq., 1126
+000005, Meridoc, Brandybuck, Esq., 1126
